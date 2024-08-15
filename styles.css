@@ -1,0 +1,22 @@
+body {
+   
+  }
+  h1 {
+    color: blue;
+    font-size: xx-large  ;
+  }
+  table {
+    th{
+        color: red;
+        td {
+            padding: 10px 0;
+          }
+
+    }
+    background-color: powderblue;
+    td {
+        padding: 10px 0;
+      }
+ 
+  }
+  
